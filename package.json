@@ -1,0 +1,19 @@
+{
+  "name": "ikana-stream-handlers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Syynth@github.com/syynth/ikana-stream-handlers"
+  },
+  "author": "Benjamin Cochrane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syynth/ikana-stream-handlers/issues"
+  },
+  "homepage": "https://github.com/syynth/ikana-stream-handlers"
+}
